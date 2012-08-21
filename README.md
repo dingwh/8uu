@@ -1,4 +1,4 @@
 8uu
 ===
 
-8uu.org
+For Drupal Development
